@@ -27,7 +27,7 @@ function DefaultCard(props:DefaultCardData) {
 
     return(
         <div className="card mb-3" style={maxWidthStyle}>
-            <div className="row g-4">
+            <div className="row g-3">
                 <div className="col-md-4" style={overflowStyle}>
                     <img src={props.thumbnail} className="img-fluid rounded-start" alt={props.title}/>
                 </div>

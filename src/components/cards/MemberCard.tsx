@@ -55,7 +55,7 @@ function MemberCard(props: MemberProps) {
         <div className="card" style={style} key={props._id}>
             <img src={props.image} className="card-img-top" alt="..."/>
             <div className="card-body">
-                <h2 style={nameStyle} className="card-title">{props.name}</h2>
+                <h4 style={nameStyle} className="card-title">{props.name}</h4>
                 <hr/>
             </div>
             <ul className="list-group list-group-flush">

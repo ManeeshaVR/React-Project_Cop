@@ -89,7 +89,7 @@ const Home:React.FC=()=> {
                     </div>
                     <div className="col-12 col-sm-6 col-md-4 col-lg-3">
                         <DefaultCard
-                            thumbnail='https://img.freepik.com/free-psd/shopping-vertical-background_23-2150409471.jpg?size=626&ext=jpg&ga=GA1.2.1120726907.1693514325&semt=ais'
+                            thumbnail='https://img.freepik.com/free-photo/minimalistic-still-life-arrangement-with-cryptocurrency_23-2149102085.jpg?size=626&ext=jpg&ga=GA1.1.1464920914.1705937043&semt=sph'
                             description=''
                             title='Transactions'
                             value={transactionCount}
@@ -98,7 +98,7 @@ const Home:React.FC=()=> {
                     </div>
                     <div className="col-12 col-sm-6 col-md-4 col-lg-3">
                         <DefaultCard
-                            thumbnail='https://img.freepik.com/free-photo/person-carrying-lot-cash_53876-65367.jpg?size=626&ext=jpg&ga=GA1.2.1120726907.1693514325&semt=sph'
+                            thumbnail='https://img.freepik.com/free-photo/industrial-designers-working-3d-model_23-2149370133.jpg?size=626&ext=jpg&ga=GA1.1.1464920914.1705937043&semt=sph'
                             description=''
                             title='Users'
                             value={userCount}
